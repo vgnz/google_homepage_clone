@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    float: right;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+li a {
+    display: inline;
+    padding: 8px;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 99%;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10.85%;
+}
+
+.sbar {
+    margin: 12px;
+    margin-bottom: 20px;
+}
+a.translate {
+    color: blue;
+}
+
+p.location {
+    text-align: left;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 10px;
+    width: 99%;
+}
+
+footer div {
+    display: inline;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
